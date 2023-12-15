@@ -1,5 +1,5 @@
-# CatyClient V1 Source
-CatyClient Version Source [CatyClient Minecraft Wii U by cedkeChat01]
-> cedkeChat01
-- Thx for nt games for print custom
-- Thx for Clover for Shine Source
+# CatyClient Version 1 Source Code
+> Created by cedkeChat01
+
+- Thanks nt-games for learn me how to create elf for Wii U.
+- Thank Clover for SHineClient Source Code.
